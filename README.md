@@ -29,7 +29,7 @@ I'm actively looking to **collaborate on meaningful web and AI projects**, espec
 
 ## 📫 Let's Connect
 - 📧 Email: **allaboutpro22@gmail.com**
-- 🌐 Portfolio: [your-portfolio.com](https://portofolio-next-five.vercel.app/)
+- 🌐 Portfolio: [proall22_portfolio.com](https://portofolio-next-five.vercel.app/)
 
 ---
 
