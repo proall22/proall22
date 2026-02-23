@@ -1,5 +1,5 @@
 # Misgana Tegegne 👋  
-**Software Engineer | Frontend Engineer | Backend Developer**
+**Software Engineer | Frontend Engineer | Backend Developer | Penetration Tester**
 
 I’m a Software Engineering graduate from Debremarkos University, Class of 2025.  
 I build production-ready web systems from the ground up. I care about architecture, performance, security, and writing code that stays clean and understandable over time.
